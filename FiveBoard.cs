@@ -5,7 +5,7 @@ using static System.Console;
 using System.IO;
 using static System.Array;
 
-namespace IFN563_Project
+namespace case_study-ood
 {
     class FiveBoard: IBoard
     {

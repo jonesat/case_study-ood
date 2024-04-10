@@ -5,7 +5,7 @@ using static System.Console;
 using System.IO;
 
 
-namespace IFN563_Project
+namespace case_study-ood
 {
     interface IGameFactory
     {

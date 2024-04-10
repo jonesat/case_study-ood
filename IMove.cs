@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace IFN563_Project
+namespace case_study-ood
 {
     interface IMove : IGameElement
     {
